@@ -199,3 +199,49 @@ header{
 .div13 img{
     margin-bottom: auto;
 }
+.container4{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 170px;
+}
+.div14{
+    gap: 50px;
+    margin-top: 170px;
+    display: flex;
+}
+.div15{
+    display: flex;
+    align-items: center;
+}
+.div15 h3{
+    font-size: 20px;
+    font-weight: 400;
+    color: #FF9C08;
+    padding-bottom: 20px;
+}
+.div15 h1{
+    font-size: 43px;
+    font-weight: 700;
+    color: #090909;
+}
+.h1{
+    padding-bottom: 30px;
+}
+.div16{
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+.div17{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 28px;
+}
+.div18 h4 {
+    font-size: 18px;
+    font-weight: 400;
+    color: #6E6E6E;        
+}
+.b7{
+    margin-top: 72px;
+}
