@@ -108,3 +108,22 @@ header{
     display: flex;
     align-items: center;
 }
+.div8 h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.div8 h1 span{
+    color: #FF9C08;
+}
+.div8 h3{
+    font-size: 20px;
+    font-weight: 400;
+    color: #6E6E6E;
+}
+.container2{
+    height: 316px;
+    background-color: #FEF9F2;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
